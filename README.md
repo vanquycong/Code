@@ -1,2 +1,2 @@
-# Code
-Command collection
+# Linux
+find . -type f -exec touch {} +
